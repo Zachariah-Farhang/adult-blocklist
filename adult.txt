@@ -1,28 +1,28 @@
-0.0.0.0 taktube.net
-0.0.0.0 kir2kos.net
-0.0.0.0 pornirani.com
-0.0.0.0 khafan.net
-0.0.0.0 soolakhi.com
-0.0.0.0 takporn.com
-0.0.0.0 pornkai.com
-0.0.0.0 luticlip.com
-0.0.0.0 irxclip.com
-0.0.0.0 looti.org
-0.0.0.0 soolakhi.com
-0.0.0.0 iranian.sex
-0.0.0.0 avizoon.site
-0.0.0.0 luticlip.com
-0.0.0.0 looti.org
-0.0.0.0 sexiha.com
-0.0.0.0 avizoone.com
-0.0.0.0 taktube.net
-0.0.0.0 3movs.com
-0.0.0.0 trendyporn.com
-0.0.0.0 sex021.com
-0.0.0.0 xpofilm.xyz
-0.0.0.0 vidz.com
-0.0.0.0 incestflix.com
-0.0.0.0 looti.net
-0.0.0.0 sunporno.com
-0.0.0.0 *.pornirani.com
-0.0.0.0 khafan.net
+*.taktube.net
+*.kir2kos.net
+*.pornirani.com
+*.khafan.net
+*.soolakhi.com
+*.takporn.com
+*.pornkai.com
+*.luticlip.com
+*.irxclip.com
+*.looti.org
+*.soolakhi.com
+*.iranian.sex
+*.avizoon.site
+*.luticlip.com
+*.looti.org
+*.sexiha.com
+*.avizoone.com
+*.taktube.net
+*.3movs.com
+*.trendyporn.com
+*.sex021.com
+*.xpofilm.xyz
+*.vidz.com
+*.incestflix.com
+*.looti.net
+*.sunporno.com
+*.pornirani.com
+*.khafan.net
