@@ -26,3 +26,14 @@
 *.sunporno.com
 *.pornirani.com
 *.khafan.net
+# TikTok
+*.tiktok.*
+*.tiktokcdn.*
+*.tiktokv.*
+*.tiktokw.*
+*.ibyteimg.*
+*.ibytedtos.*
+*.byteoversea.*
+*.bytefcdn.*
+*.zijieapi.*
+*.musical.*
