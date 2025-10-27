@@ -46,3 +46,5 @@ https://family.cloudflare-dns.com/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://dns.google/dns-query
 https://cloudflare-dns.com/dns-query
+*cloudflare-dns.com*
+cloudflare-dns.com
