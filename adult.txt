@@ -105,3 +105,6 @@ mask.apple-dns.com
 mask-api.icloud.com
 dns.apple.com
 apple-dns.com
+
+*.xxtubex.com
+xxtubex.com
