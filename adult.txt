@@ -49,7 +49,6 @@ https://cloudflare-dns.com/dns-query
 *cloudflare-dns.com*
 cloudflare-dns.com
 
-dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.alidns.com
@@ -79,7 +78,6 @@ dns.nextdns.io
 anycast.dns.nextdns.io
 ada.openbld.net
 ric.openbld.net
-dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 doh.qis.io
