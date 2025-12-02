@@ -72,7 +72,7 @@
 *.drugpass.com
 *.drugpass.com 
 *.drugplantseeds.com.moresiteslike.org
-*.drugplantseeds.com.moresiteslike.org 
+*.moresiteslike.org 
 *.drugs.com.ru
 *.drugsandpoisons.com
 *.drugscience.org
@@ -135,7 +135,7 @@
 *.en.dailysmoker.com
 *.en.hennepdesk.eu
 *.en.seedfinder.eu
-*.en.seedfinder.eu/growing
+*.seedfinder.eu
 *.english.shayanashop.com
 *.enjoint.info
 *.entheogen.in.ua
@@ -612,3 +612,14 @@ unfiltered.adguard-dns.com
 v.recipes
 wikimedia-dns.org
 xxtubex.com
+*.seedfinder.eu
+*.growery.org
+*.grasscity.com
+*.howtogrowmarijuana.com
+*.cannabisculture.com
+*.sensiseeds.com
+*.hugedomains.com
+*.ganja.co.uk
+*.shayanashop.com
+*.tumblr.com
+*.grainesdecannabis.wordpress.com
