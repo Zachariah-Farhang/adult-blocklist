@@ -68,7 +68,7 @@
 *.druglibrary.org
 *.druglibrary.org/crl 
 *.drugmethadone.com
-*.drugmethadone.com 
+drugmethadone.com 
 *.drugpass.com
 *.drugpass.com 
 *.drugplantseeds.com.moresiteslike.org
