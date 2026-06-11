@@ -706,3 +706,4 @@ xxtubex.com
 *.enjoint.info
 *.fasaonline.org
 *.ganjadigger.com
+*.nextdns.io
