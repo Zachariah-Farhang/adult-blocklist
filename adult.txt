@@ -562,11 +562,9 @@ drugmethadone.com
 ada.openbld.net
 antivirus.bebasid.com
 anycast.dns.nextdns.io
-apple-dns.com
 basic.rethinkdns.com
 cloudflare-dns.com
 dns.alidns.com
-dns.apple.com
 dns.bebasid.com
 dns.caliph.dev
 dns.cloudflare.com
@@ -595,9 +593,6 @@ https://family.cloudflare-dns.com/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 internetsehat.bebasid.com
-mask.apple-dns.com
-mask.apple-dns.net
-mask.apple-dns.org
 mask.icloud.com
 mask-api.icloud.com
 mask-h2.icloud.com
